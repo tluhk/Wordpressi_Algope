@@ -5,6 +5,12 @@
 - [HTML](./concepts/HTML/about.md)
 - [CSS](./concepts/CSS/about.md)
 - [Javascript](./concepts/Javascript/about.md)
+- Mis on Wordpress?
+- Mis on sisuhaldussüsteem?
+- Wordpressi kasutamise eelised ja miinused
+- Wordpress.com vs Wordpress.org
+- Kust ja kuidas Wordpressi saab?
+- Wordpressi majutamine
 - 
 
 ## Sihtgrupp
