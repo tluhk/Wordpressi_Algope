@@ -12,4 +12,4 @@ Vaikimisi leiab navigatsioonimenüü vasakult halduspaneeli ülaosast. Navigatsi
 - [Kasutajad](../users/about.md)
 - [Tööriistad](../tools/about.md)
 - [Sätted](../settings/about.md)
-- [Sulge menüü](../closeMenu/about.md)
+- 

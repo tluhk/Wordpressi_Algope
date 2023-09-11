@@ -1,4 +1,4 @@
-# Kindral
+# Sätted
 
 Seadete haldusvaatel on kõik sätted, mis määravad teie ajaveebi tervikuna: seaded, mis määravad, kuidas teie sait käitub, kuidas teie saidiga suhtlete ja kuidas ülejäänud maailm teie saidiga suhtleb.
 
