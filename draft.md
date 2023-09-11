@@ -1,0 +1,22 @@
+# Ideed ja jutupunktid
+
+- Mis on internet?
+- Mis on veebileht ja kuidas see tekib?
+- Kuidas veebilehte luuakse?
+  - Veebilehe tegemise tehnoloogiad
+  - HTML
+  - CSS
+  - Javascript
+- Mis on Wordpress?
+- Mis on sisuhaldussüsteem?
+- Wordpressi kasutamise eelised ja miinused
+- Wordpress.com vs Wordpress.org
+- Wordpressi majutamine
+- Wordpressi halduspaneeli kasutajaliides
+- Wordpressi seadistamine
+- Wordpressi teemad/mallid
+- Mallide muutmine ja loomine
+- Ploki ja plokimustrid
+- Wordpressi pluginad
+- Full Site Editing
+- 
