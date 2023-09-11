@@ -9,7 +9,7 @@
 - [Javascript](./concepts/Javascript/about.md)
 - [Mis on Wordpress?](./concepts/Wordpress/about.md)
 - [Mis on sisuhaldussüsteem?](./concepts/Wordpress/about.md)
-- Wordpressi kasutamise eelised ja miinused
+- [Wordpressi kasutamise eelised ja miinused](../concepts/plussidMiinused/about.md)
 - [Wordpress.com vs Wordpress.org](./concepts/WordpressVSWordpress/about.md)
 - [Wordpressi majutamine](./concepts/WordpressiMajutamine/about.md)
 - [Wordpressi halduspaneeli kasutajaliides](./concepts/halduspaneel/about.md)
