@@ -25,5 +25,5 @@ Arvuti kasutamise põhioskused, aga ei ole varem kokku puutunud veebilehe loomis
 
 ## Kohtumised
 
--[Esimene kohtumine](lessons/lesson_01/about.md)
+- [Esimene kohtumine](lessons/lesson_01/about.md)
 

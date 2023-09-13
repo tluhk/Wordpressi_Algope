@@ -9,6 +9,10 @@ Haapsalu kolledž
 2023
 
 ---
+# Materjalid
+
+## https://github.com/tluhk/Wordpressi_Algope
+---
 # Esimene kohtumine
 
 - Kes me oleme ja milline on meie kokkupuude veebi ja veebilehtedega siiani?
