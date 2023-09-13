@@ -19,8 +19,11 @@ Uurime, mis see Wordpress üldse on, kust ja kuidas seda saab ja mida sellega pe
 - [Wordpressi majutamine](../../concepts/WordpressiMajutamine/about.md)
 - [Wordpressi halduspaneeli kasutajaliides](../../concepts/halduspaneel/about.md)
 - [Postitus ja lehekülg](../../concepts/postVSpage/about.md)
-
+- [Plokid ja plokimustrid](../../concepts/plokid/about.md)
+- [Teema](../../concepts/teema/about.md)
+- [Mall](../../concepts/mall/about.md)
 ## Videod
+
 - [Wordpressi sisu ja mallide omavaheline seos](https://www.youtube.com/watch?v=fq5XM90Tu0g)
 - [Wordpressi lehekülje tegemine koos mallide muutmisega](https://www.youtube.com/watch?v=Htvvvfm5afA)
 - [Videotes kasutatud Whiteboardi link](https://miro.com/app/board/uXjVOzhaWy4=/)
