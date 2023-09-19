@@ -66,3 +66,8 @@ Airbnb avalehel eristuvad täidetavad väljad tänu kontrastile. Olulisemad tege
 
 PayPal tagab avalehel üheklikise ligipääsu kõigile olulisematele toimingutele. Lehe struktuur on lihtne, keerulised toimingud jagatud mitmeks osaks.
 
+![ZigZag](./ZigZag.png)
+
+![Straight Down](./straightDown.png)
+
+Esimene variant hakib kasutaja pilgu teekonda, teine aga suunab otse soovitud toimingu juurde. Näide: Dorjan Vulaj

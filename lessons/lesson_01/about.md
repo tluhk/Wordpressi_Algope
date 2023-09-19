@@ -4,7 +4,7 @@ Esimesel kohtumisel räägime sellest, mis on üldse veebileht, millest see koos
 
 Uurime, mis see Wordpress üldse on, kust ja kuidas seda saab ja mida sellega peale hakata. Vaatame üle, kuidas Wordpress seestppolt välja näeb, mis on postitused ja lehed, millal neist kumbagi kasutada ja teeme ka esimesed postitused ja lehed.
 
-- [Esimese kohtumise slaidid](../../lessons/lesson_01/slaidid.pdf)
+- [Esimese kohtumise slaidid](./slaidid.pdf)
 
 ## Teemad
 
