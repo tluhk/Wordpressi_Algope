@@ -2,7 +2,7 @@
 marp: true
 
 ---
-# Wordpressi algõpe
+# Veebilehe loomise algõpetus Wordpressi platvormil
 
 Martti Raavel
 Haapsalu kolledž
@@ -24,6 +24,10 @@ Haapsalu kolledž
 - [Wordpressi majutamine](../../concepts/WordpressiMajutamine/about.md)
 - [Wordpressi halduspaneeli kasutajaliides](../../concepts/halduspaneel/about.md)
 - [Postitus ja lehekülg](../../concepts/postVSpage/about.md)
+- [Plokid ja plokimustrid](../../concepts/plokid/about.md)
+- [Teema](../../concepts/teema/about.md)
+- [Mall](../../concepts/mall/about.md)
+- [Pluginad ehk pistikprogrammid](../../concepts/plugins/about.md)
 
 ---
 # Mis on internet?

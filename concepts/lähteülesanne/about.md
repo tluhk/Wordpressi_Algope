@@ -6,7 +6,7 @@ Lähteülesanne veebilehe loomise kontekstis on dokument või juhend, mis sisald
 
 - Lühikirjeldus loodava veebilehe eesmärgist, nõuetest ja ajakavast;
 - Annab osapooltele selge ühise arusaama projekti ootustest;
-- Üldjuhul briifi koostab veebilehe tellija;
+- Üldjuhul koostab lähteülesande veebilehe tellija;
 - Põhjalik ja konkreetne briif tagab projekti õnnestumise.
 
 ## Mida lähteülesanne sisaldab?
@@ -40,11 +40,11 @@ Lähteülesanne veebilehe loomise kontekstis on dokument või juhend, mis sisald
     - elustiil
     - väärtused
     - eelistused
-- **Tarbimismuster**
-  - esmaostja
-  - sage ostja
-  - erakorraline ostja jne
-- Vajadused. 
+  - Tarbimismuster
+    - esmaostja
+    - sage ostja
+    - erakorraline ostja jne
+  - Vajadused. 
 - **Peamised konkurendid**
   - Kes pakuvad samalaadset teenust / toodet / infot vms?
   - Millised on nende veebilehed – peamiste tugevuste ja nõrkuste kaardistamine! 
