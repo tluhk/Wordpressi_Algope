@@ -22,6 +22,8 @@ Uurime, mis see Wordpress üldse on, kust ja kuidas seda saab ja mida sellega pe
 - [Plokid ja plokimustrid](../../concepts/plokid/about.md)
 - [Teema](../../concepts/teema/about.md)
 - [Mall](../../concepts/mall/about.md)
+- [Pluginad ehk pistikprogrammid](../../concepts/plugins/about.md)
+  
 ## Videod
 
 - [Wordpressi sisu ja mallide omavaheline seos](https://www.youtube.com/watch?v=fq5XM90Tu0g)
