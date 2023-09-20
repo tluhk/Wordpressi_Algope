@@ -237,23 +237,134 @@ Kasutajakogemuse disaini eesmärk on luua lahendusi, mis on mitte ainult esteeti
 
 ---
 # Persoona - eesmärgid, sihid
-Ainult antud teenuse / tootega seotud motivatsioon!
-Mida soovib saavutada? Mis on selle juures oluline?
-Mis võiks teenuse / toote juurde suunata? Mida soovib?
+- Ainult antud teenuse / tootega seotud motivatsioon!
+- Mida soovib saavutada? Mis on selle juures oluline?
+- Mis võiks teenuse / toote juurde suunata? Mida soovib?
 
 ---
+# Persoona - valukohad, mure
+- Ainult antud teenuse / tootega seotud probleemid!
+- Mis takistab eesmärkideni jõudmisel? Millised on mured ja hirmud?
+- Kuidas takistusi ületab?
 
+---
+# Persoona - persoonade jaotumine
+- Proto-persoonad
+- Kvalitatiivne persoona
+- Kvantitatiivne persoona
 
+---
+![Persoona](../../concepts/persoona/Amy.png)
+
+---
+# Persoona - ülesanne
+- Koosta etteantud malli järgi oma kodulehe potenstsiaalse kasutaja proto-persoona. 
+- Tutvusta oma koostatud persoonat paarilisele.
+
+---
 # Stsenaarium
+Tarkvara arendamisel viitab stsenaarium konkreetsele kasutusjuhtumile või olukorrale, millega kasutaja tarkvaraga suheldes võib kokku puutuda. Stsenaariume kasutatakse selleks, et kirjeldada, kuidas kasutaja tarkvaraga suhtleb ja milliseid samme nad peavad konkreetse ülesande või eesmärgi täitmiseks tegema.
 
+---
+# Stsenaarium
+- Persoona-põhine kirjeldus toote/teenuse kasutamisest;
+- Ei keskendu ärilistele või tehnoloogilistele nüanssidele ega disainile, vaid kirjeldab kasutajakogemust!
+- Sisaldab:
+  - tegija
+  - motivatsioon
+  - eesmärk või kavatsus
+  - tegevus
+  - tulemus või lahendus;
+
+Luuakse või valideeritakse koos persoona-sarnaste reaalsete kasutajatega (nn osalusdisain)!
+
+---
+![Stsenaarium](./stesenaarium.png)
+
+---
+# Stsenaarium
+| Tegija | Tiina.. |
+| --- | --- |
+| Motivatsioon | ..soovib õppida, kuidas oma ettevõttele ise veebileht luua |
+| Eesmärk | Ta tahab leida koolitust, mis sobiks hinnalt, oleks suunatud algajatele ja toimuks sobivatel kuupäevadel |
+| Tegevus | Tiina valib koolituste nimekirjast talle sobiva kategooria, milleks on IT. Seejärel sorteerib ta koolitusi hinna ja toimumisaja alusel ning tutvub nende sisuga |
+| Tulemus | Ta leiab nimistust sobiva koolituse ja registreerib osalejaks |
+
+---
+# Stsenaariumi koostamisel
+
+- Väldi tehnoloogia või disaini liigset kirjeldamist – stsenaariumi eesmärk on olla disaini inspiratsiooniks, mitte fikseeringuks! 
+- Ära kirjelda persoonat ja tema eesmärke ülemäärase detailsusega, keskendu vaid olulisele!
+
+---
+# Kasutaja teekond
+
+Kasutaja teekond, mida tuntakse ka kui kasutaja teekonnakaarti või kliendi teekonnakaarti, on tööriist, mida kasutatakse tarkvaraarenduses, et visualiseerida kasutaja kogemus toote või teenusega suheldes. See on sisuliselt kasutaja kogemuste samm-sammuline kaart, alates kasutaja esialgsest teadlikkusest tootest või teenusest, sellega suhtlemisest ja lõpuks otsuseni kasutamise jätkamisest või selle lõpetamisest.
+
+---
+# Kasutaja teekond
+
+- Alternatiiv / laiendus stsenaariumile, loob tervikliku ülevaate kasutajakogemusest;
+- Esmalt määratakse persoona ja stsenaarium, samuti eesmärgid.
+- Teisena on kaardistuse keskmes kogemuse visualiseering, mis jaotatakse mitmeks etapiks.
+- Kolmanda osa moodustavad tähelepanekud ja võimalused edasiseks ning vastutajad.
+
+---
+# Mida kasutaja teekond sisaldab?
+- Teadlikkus
+- Uuringud
+- Registreerumine või ost
+- Onboarding
+- Kasutamine
+- Tugi
+- Uuendamine või katkestamine
+
+Kaardistades kasutaja teekonna sel viisil, saavad tarkvaraarendajad ja disainerid tuvastada valdkonnad, kus saab parandada kasutajakogemust, näiteks lihtsustades *onboardingu* protsessi, täiustades toote funktsioone või pakkudes paremat tuge.
+
+---
+![height:600px](./../../concepts/kasutajateekond/Kasutajateekond_1.png)
+
+---
+# Kasutaja teekond / stsenaarium - harjutus
+- Võta aluseks loodud persoonad ja kirjuta igaühe kohta kas stsenaarium või kasutaja teekond, mis kirjeldaks sellele kasutajagrupile tüüpset kasutussituatsiooni!
+- Vajadusel võib kirjutada ühele persoonale mitu stsenaariumit / teekonda.
 
 ---
 # Kasutajalood
 
----
-# Kasutajakogemuse disaini reeglid
+Kasutajalugu on lihtne ühelauseline tarkvararakenduse funktsiooni või funktsionaalsuse kirjeldus, mis on kirjutatud lõppkasutaja vaatenurgast.
+
+Kasutajalood on levinud tehnika, mida kasutatakse agiilses tarkvaraarenduses, et kirjeldada rakenduse nõudeid nii, et neid on lihtne mõista ja prioriteete seada.
 
 ---
-# Prototüüpimine
+# Kasutajalood
+- Lihtsad, selged lühikirjeldused funktsionaalsustest, mis omavad väärtust lõppkasutajale
+- Persoonade, kasutaja teekondade, intervjuude ja äriplaani pinnalt koostatav funktsionaalsuste loetelu;
+- Vastab küsimustele: Kes vajab? Mida vajab? Miks? Kui oluline?
 
 ---
+# Kasutajalugu
+
+## *Registreeritud kasutajana tahan oma parooli lähtestada, et saaksin parooli unustamise korral oma kontole tagasi juurdepääsu.*
+
+---
+# Kasutajaloo kirjeldamisel
+
+- **Tuvastage kasutaja**: alustage kasutaja või rolli tuvastamisest, kelle vaatenurgast lugu on kirjutatud. See võib olla konkreetne kasutaja või kasutajate rühm, kellel on sarnane vajadus.
+- **Kirjeldage toimingut**: järgmisena kirjeldage toimingut, mida kasutaja soovib teha. See peaks olema lihtne ja selge kirjeldus selle kohta, mida kasutaja teha tahab.
+- **Nimetage kasu**: lõpuks märkige kasu, mida kasutaja saab selle toimingu sooritamisest. See peaks kirjeldama, miks kasutaja soovib toimingu sooritada ja mida ta loodab saavutada.
+---
+# Näited - e-pood
+1. **Külaliskasutajana** tahan, et saaksin **tooteid sirvida**, et **leida midagi**, mida osta.
+2.  **Registreeritud kasutajana** soovin, et saaksin oma **ostukorvi tooteid lisada**, et **saaksin jälgida**, mida osta tahan.
+3. **Registreeritud kasutajana** soovin, et mul oleks võimalik oma **kaupade eest tasuda**, et saaksin **ostu lõpule viia**.
+4. **Registreeritud kasutajana** soovin **näha oma tellimuste ajalugu**, et saaksin **näha**, mida olen varem ostnud.
+5. **Registreeritud kasutajana** soovin, et saaksin **kirjutada tootearvustusi**, et saaksin oma **kogemusi teiste kasutajatega jagada**.
+6. **Registreeritud kasutajana** soovin, et saaksin **oma konto andmeid muuta**, et saaksin oma andmed **ajakohasena hoida**.
+
+---
+# Kasutajalood - harjutus
+- Võta aluseks loodud stenaariumid ning persoonad ja loo nende pinnalt kasutajalood.
+- Prioritiseeri kasutajalugude funktsionaalsused - nendest kasvab välja Sinu veebilehe hierarhia
+> NB! Kasutajalood tuleks ideaalis valideerida persoonade poolt esindatud kasutajagruppidega
+
