@@ -2,8 +2,11 @@
 
 - [Kolmanda kohtumise slaidid](./slaidid.pdf)
 
+## Teemad
+- [Kasutajalood](../../concepts/kasutajalood/about.md)
 - [Kasutajakogemuse disaini reeglid](../../concepts/kasutajakogemuseDisain/about.md)
 - [Prototüüpimine](../../concepts/prototyypimine/about.md)
+- Milliseid pistikprogramme on vaja?
 - Veebididsaini põhialused
 - Abivahendid veebilehe loomisel
 - Testimine

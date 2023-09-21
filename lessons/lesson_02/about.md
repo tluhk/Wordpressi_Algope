@@ -7,7 +7,6 @@ Jooksvalt teeme vastavate teemade juures ka harjutusi ja püüame paika panna om
 - [Teise kohtumise slaidid](./slaidid.pdf)
 
 ## Teemad
-
 - Millest me eelmisel korral rääkisime?
 - Miks ei näite featured image varianti postitustel?
 - Kuidas Wordpress otsustab, millist malli kasutada?
@@ -15,7 +14,6 @@ Jooksvalt teeme vastavate teemade juures ka harjutusi ja püüame paika panna om
 - [Kasutajakogemus](../../concepts/kasutajakogemuseDisain/about.md)
 - [Persoona](../../concepts/persoona/about.md)
 - [Stsenaarium](../../concepts/stsenaarium/about.md)
-- [Kasutajalood](../../concepts/kasutajalood/about.md)
 
 ## Huvitavat lugemist
 - [Facebooki grupp, kuhu postitatakse erinevaid näiteid halbadest kasutajaliidestest](https://www.facebook.com/groups/399112867610583)
