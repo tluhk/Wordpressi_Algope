@@ -5,14 +5,12 @@
 
 ## Teemad
 - [Kasutajalood](../../concepts/kasutajalood/about.md)
+- [Kasutajakogemuse disaini reeglid](../../concepts/UXreeglid/about.md)
 - [Prototüüpimine](../../concepts/prototyypimine/about.md)
-- [Kasutajakogemuse disaini reeglid](../../concepts/kasutajakogemuseDisain/about.md)
 - Milliseid pistikprogramme on vaja?
-- Veebididsaini põhialused
+- [Veebididsaini põhialused](../../concepts/veebiDisainiAlused/about.md)
 - Abivahendid veebilehe loomisel
 - Testimine
-
-
 
 ## UX-i reeglitega seotud linke
 - [Laws of UX](https://lawsofux.com/)

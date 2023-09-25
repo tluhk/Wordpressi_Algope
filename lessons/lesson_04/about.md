@@ -3,6 +3,7 @@
 - [Neljanda kohtumise slaidid](./slaidid.pdf)
 
 ## Teemad
+- SEO ehk veebilehe optimeerimine otsingumootori jaoks
 - [Elementor](../../concepts/elementor/about.md)
 - [Woocommerce](../../concepts/woocommerce/about.md)
 - [Yoast SEO](../../concepts/yoastSEO/about.md)
