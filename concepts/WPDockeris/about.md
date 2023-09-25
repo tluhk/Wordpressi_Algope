@@ -18,6 +18,8 @@ Mis on Docker ja kuidas see töötab, saab vaadata näiteks [siit](https://youtu
 
 Selleks, et arvutis saaks Dockerit kasutada, tuleks kõigepealt paigaldada `Docker Desktop` rakendus.
 
+> NB! Võib juhtuda, et `Docker Desktop`-i paigaldamisel nõutakse veel mingi lisatarkvara paigaldamist (*WSL2*). Kui see nii on, siis tuleks see ka paigaldada.
+
 Selle saab alla laadida [siit](https://docs.docker.com/desktop/).
 
 Kuna WordPressi arenduskeskkond vajab töötamiseks mitut erinevat teenust (PHP, andmebass, WordPressi kood), siis kõige mugavam on kasutada selleks Dockeri poolt pakutavat tööriista `docker-compose`, mis võimaldab korraga käivitada mitu konteinerit ja võimaldab neil konteineritel omavahel suhelda. Nende konteinerite loomiseks ja omavaheliste seoste seadistamiseks kasutatakse `docker-compose.yml` faili. Õnneks ei ole meil endal vaja sellega väga palju vaeva näha, kuna meie eest on see töö juba ära tehtud ja saame kasutada juba loodud faili, mille saab kopeerida [siit](https://docs.docker.com/samples/wordpress/).
@@ -59,7 +61,7 @@ services:
 
 Selleks, et WordPress nüüd oma arvutis tööle saada, tuleks eelnevalt kirjeldatud `docker-compose.yml` salvestada oma arvutisse vabalt valitud kausta ja seal kaustas olles käsurealt käivitada käsk: `docker-compose up -d`
 
-Seejärel tuleb veebilehitsejas minna aadressile:` http://localhost:8000/` ja järgida juhiseid WordPressi paigaldamiseks.
+Seejärel tuleb veebilehitsejas minna aadressile: `http://localhost:8000/` ja järgida juhiseid WordPressi paigaldamiseks.
 
 Kausta, kuhu `docker-compose.yml` salvestati, ilmub kaks kausta: `html` ja `db_data`, millest esimeses on näha wordpressi failid ja teises säilitatakse andmebaasiga seotud faile.
 
