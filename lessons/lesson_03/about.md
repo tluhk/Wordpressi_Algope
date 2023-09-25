@@ -1,16 +1,17 @@
 # Kolmas kohtumine
 
 - [Kolmanda kohtumise slaidid](./slaidid.pdf)
+- [Wordpressi arenduskeskkond oma arvutis](../../concepts/WPDockeris/about.md)
 
 ## Teemad
 - [Kasutajalood](../../concepts/kasutajalood/about.md)
-- [Kasutajakogemuse disaini reeglid](../../concepts/kasutajakogemuseDisain/about.md)
 - [Prototüüpimine](../../concepts/prototyypimine/about.md)
+- [Kasutajakogemuse disaini reeglid](../../concepts/kasutajakogemuseDisain/about.md)
 - Milliseid pistikprogramme on vaja?
 - Veebididsaini põhialused
 - Abivahendid veebilehe loomisel
 - Testimine
-- SEO ehk veebilehe optimeerimine otsingumootori jaoks
+
 
 
 ## UX-i reeglitega seotud linke
