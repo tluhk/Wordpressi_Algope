@@ -46,7 +46,6 @@ Testijate arvu ja tuvastatud probleemide vahekord. Näide: Nielsen Norman Group
 - Nt “Mis sa arvad?” või “Mida sa tavaliselt teeks?”
 - Loob tavalisele kasutusele sarnaneva olukorra, kus kasutaja peab ise lahendusi leidma. 
 
-
 ## "Columbo” meetod
 - Läbiviija väljendab end meelega **ebamääraselt**, **jättes küsimused poolikuks** või umbkaudseks, kasutades **žeste** jne;
 - oob olukorra, kus testija hakkab ise täpsustusi pakkuma või läbiviijat “aitama”;

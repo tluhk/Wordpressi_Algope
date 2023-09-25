@@ -9,8 +9,8 @@
 - [Prototüüpimine](../../concepts/prototyypimine/about.md)
 - Milliseid pistikprogramme on vaja?
 - [Veebididsaini põhialused](../../concepts/veebiDisainiAlused/about.md)
-- Abivahendid veebilehe loomisel
-- Testimine
+- [Abivahendid veebilehe loomisel](../../concepts/abivahendid/about.md)
+- [Testimine](../../concepts/testimine/about.md)
 
 ## UX-i reeglitega seotud linke
 - [Laws of UX](https://lawsofux.com/)
