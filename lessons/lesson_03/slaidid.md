@@ -68,6 +68,12 @@ Kasutajalood on levinud tehnika, mida kasutatakse agiilses tarkvaraarenduses, et
 > NB! Kasutajalood tuleks ideaalis valideerida persoonade poolt esindatud kasutajagruppidega
 
 ---
+# Kasutajalugude põhjal funktsionaalsus
+- Kasutajalood on abiks, et mõista, mida kasutaja vajab
+- Millist funktsionaalsust Sinu veebileht peab sisaldama, mis ei paista olevat Wordpressi "standardblokkidega" lahendatav?
+- Näiteks 
+
+---
 # Kasutajakogemuse disaini reeglid
 - Vaimse koormuse vähendamine
 - Tähelepanu hoidmine
