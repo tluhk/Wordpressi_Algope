@@ -42,9 +42,9 @@ Eksimustega arvestamine Gmaili sisselogimisel – mitut märkad?
 
 Kausta ikoonid kasutavad visuaalset seost nn päris kaustadega – järjepidevus seniste kogemustega.
 
-![Delete Account Sinine](image.png)
+![Delete Account Sinine](./DeleteAccountBlue.png)
 
-![Delete Account Punane](image-1.png)
+![Delete Account Punane](./DeleteAccountRed.png)
 
 Kuna seostame punast värvi hoiatustega, toimib teine dialoogiaken paremini. Abiks on ka prügikasti ikoon! Näide:[UX Movement](https://uxmovement.com/)
 

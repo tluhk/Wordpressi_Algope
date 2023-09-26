@@ -6,10 +6,10 @@
 ## Teemad
 - [Kasutajalood](../../concepts/kasutajalood/about.md)
 - [Kasutajakogemuse disaini reeglid](../../concepts/UXreeglid/about.md)
-- [Prototüüpimine](../../concepts/prototyypimine/about.md)
-- Milliseid pistikprogramme on vaja?
 - [Veebididsaini põhialused](../../concepts/veebiDisainiAlused/about.md)
 - [Abivahendid veebilehe loomisel](../../concepts/abivahendid/about.md)
+- [Prototüüpimine](../../concepts/prototyypimine/about.md)
+- Milliseid pistikprogramme on vaja
 - [Testimine](../../concepts/testimine/about.md)
 
 ## UX-i reeglitega seotud linke

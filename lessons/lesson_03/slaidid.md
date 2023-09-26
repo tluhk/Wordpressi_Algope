@@ -11,9 +11,12 @@ Haapsalu kolledž
 ---
 # Kolmas kohtumine
 - [Kasutajalood](../../concepts/kasutajalood/about.md)
-- [Kasutajakogemuse disaini reeglid](../../concepts/kasutajakogemuseDisain/about.md)
+- [Kasutajakogemuse disaini reeglid](../../concepts/UXreeglid/about.md)
+- [Veebididsaini põhialused](../../concepts/veebiDisainiAlused/about.md)
+- [Abivahendid veebilehe loomisel](../../concepts/abivahendid/about.md)
 - [Prototüüpimine](../../concepts/prototyypimine/about.md)
-
+- Milliseid pistikprogramme on vaja
+- [Testimine](../../concepts/testimine/about.md)
 
 ---
 # Eelmine kord
@@ -65,11 +68,52 @@ Kasutajalood on levinud tehnika, mida kasutatakse agiilses tarkvaraarenduses, et
 > NB! Kasutajalood tuleks ideaalis valideerida persoonade poolt esindatud kasutajagruppidega
 
 ---
+# Kasutajakogemuse disaini reeglid
+- Vaimse koormuse vähendamine
+- Tähelepanu hoidmine
+- Eksimustega arvestamine
+- Järjepidevuse tagamine
+- Esteetiliselt kujundamine
+- Optimaalsuse tagamine
 
 ---
+# Vaimse koormuse vähendamine
+![Alt text](image.png)
+
+---
+# Vaimse koormuse vähendamine
+![Alt text](image-1.png)
+
+---
+# Tähelepanu hoidmine
+- Inimeste tähelepanu hajub kergesti. Muuda **info hõlpsasti tarbitavaks** – liigenda tekstid lühikesteks plokkideks ja jaga **keerulised toimingud mitmeks osaks**.
+- **Milleri seadus:** inimesed suudavad korraga hoomata või meeles pidada 7 (+/–2) detaili;
+- Kõige paremini jäävad meelde **seeria esimesed ja viimased elemendid.**
+
+---
+# Tähelepanu hoidmine
+![Alt text](image-2.png)
+
+---
+# Eksimustega arvestamine
+- Inimeste teevad vigu – muuda eksimuste korrigeerimine lihtsaks! Paku igas **toimingus alati tagasiteed**;
+- Näe võimalikke eksimusi ette ning **jaga hoiatusi / selgitusi** toimuva kohta. Jälgi, et veebilehe poolt pakutavad võimalused oleks **üheselt mõistetavad**.
+- **Posteli seadus**: ole liberaalne selles, mida aktsepteerid, ja konservatiivne selles, mida pakud.
+
+---
+# Eksimustega arvestamine
+![height:600px](image-3.png)
+
+---
+# Järjepidevuse tagamine
+- Kasuta sõnastusi ja mõisteid, mis on kasutajatele tuttavlikud. **Järgi üldkehtivaid reegleid ja tavasid**;
+- Loo seoseid varasemate kogemustega – ära sunni kasutajaid õppima või mäletama, vaid võimalda neile äratundmist!
+- Jakobi seadus: inimesed veedavad rohkem aega teistel veebilehtedel – **sinu leht peaks toimima sarnaselt teistele!**
+---
+
+
 # Testimine - ülesanne
 
 - Koosta kirjalikult testimiseks ülesanded, lähtudes kõige tõenäolisematest kasutusjuhtudest.
-
 - Leia enda veebilehe jaoks 2-3 testijat ja vii nendega ükshaaval testimine läbi. Testimise ajal tee märkmeid, vaatle testija reaktsioone (nt häälitsusi, sõnastusi, näoilmet, žeste, kehakeelt jne), vajadusel toeta suuliselt testijat ning esita küsimusi
 
