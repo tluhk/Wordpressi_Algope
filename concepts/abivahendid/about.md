@@ -29,10 +29,9 @@
 
 ## Abivahendid
 ### Värvi tööriistad
-- [Värviringi põhjal värvikoosluste leidmine;](https://color.adobe.com/)
+- [Värviringi põhjal värvikoosluste leidmine;](https://color.adobe.com/create/color-wheel)
 - [Kahe värvi vahelise kontrasti hindamine, hea tekstide loetavuse jms hindamiseks;](https://contrast-ratio.com/)
 - [Värvipimeduse simuleerimine;](https://www.color-blindness.com/coblis-color-blindness-simulator/)
-- [Värvikoosluste leidmine ja kasutussõbralikkuse hindamine.](https://material.io/resources/color/)
 
 ### Loetavus, ligipääsetavus jms
 - [Hindab veebilehe ligipääsetavust (puuetega inimesed, noored ja vanad kasutajad jt);](https://www.accessibilitychecker.org/)
