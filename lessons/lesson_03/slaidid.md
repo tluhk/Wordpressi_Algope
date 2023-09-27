@@ -176,6 +176,7 @@ Kasutajalood on levinud tehnika, mida kasutatakse agiilses tarkvaraarenduses, et
 - Jälgi, et omavahel sarnaneks vaid sarnase eesmärgi või funktsiooniga elemendid!
 - Korduvate elementide kasutamine suurendab süsteemsust, terviklikkust ja stiilipuhtust!
 
+---
 # Joondus
 - Kõik kujunduse elemendid on omavahel visuaalses seoses – miski ei tohiks olla juhuslikult asetatud;
 - Korrektne joondumine annab kujundusele süsteemsuse, struktuuri. Märgatav on isegi 1px eksimus!
@@ -285,6 +286,17 @@ Paberprototüüpimine on odav ja madala täpsusega prototüüpimise tehnika, mid
 - Kasuta paberprototüübi loomiseks paberit ja pliiatsit
 
 ---
+# Milliseid komponente on vaja
+
+Prototüübi alusel saame juba hakata vaatama, milliseid komponente on meil vaja, et oma kodulehekülg valmis teha, näiteks:
+- Navigatsioon
+- Pildid
+- Tekstid
+- Asukohakaardid
+- Kontaktvormid
+- ...
+
+---
 # Testimine
 - **Probleemide tuvastamine** disaini, toote või teenuse juures.
 - **Võimaluste leidmine** disaini parandamiseks.
@@ -322,3 +334,4 @@ Paberprototüüpimine on odav ja madala täpsusega prototüüpimise tehnika, mid
 - Koosta kirjalikult testimiseks ülesanded, lähtudes kõige tõenäolisematest kasutusjuhtudest.
 - Leia enda veebilehe jaoks 2-3 testijat ja vii nendega ükshaaval testimine läbi. Testimise ajal tee märkmeid, vaatle testija reaktsioone (nt häälitsusi, sõnastusi, näoilmet, žeste, kehakeelt jne), vajadusel toeta suuliselt testijat ning esita küsimusi
 
+---
