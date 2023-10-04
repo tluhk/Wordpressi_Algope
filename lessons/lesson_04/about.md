@@ -16,4 +16,4 @@ Viimasel korral vaatame erinevaid kasulikke pluginaid, mida võiks veebilehe teg
 - [Use Any Font](https://wordpress.org/plugins/fonto/) - plugin, mis võimaldab kasutajatel laadida ja kasutada kohandatud fonte oma veebisaidil ilma koodi kirjutamise vajaduseta (tasuta lubab kasutada üht fonti).
 - [WP Rocket](https://wp-rocket.me/) - WordPressi jõudlusplugin, mis pakub lehe vahemälu, optimeerimise ja muid kiirendamise funktsioone, et parandada veebisaidi laadimiskiirust ja üldist jõudlust.
 - [Site Editor Classic Features](https://wordpress.org/plugins/fse-classic/) - plugin, mis võimaldab kasutada klassikalisi Wordpressi vidinaid, mis ei ole veel plokkideks teisendatud.
-- [Küpsiste plugin](https://www.cookieyes.com/) - plugin küpsiste kasutamise kohta.  
+- [Cookieyes](https://www.cookieyes.com/) - plugin küpsiste kasutamise kohta.  
