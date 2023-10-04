@@ -6,7 +6,7 @@ Viimasel korral vaatame erinevaid kasulikke pluginaid, mida võiks veebilehe teg
 - [SEO ehk veebilehe optimeerimine otsingumootori jaoks](../../concepts/SEO/about.md)
 - [Site Kit by Google](https://sitekit.withgoogle.com/) - võimaldab kasutajatel hõlpsalt integreerida erinevaid Google'i teenuseid oma veebisaidiga, nagu Analytics, Search Console ja AdSense.
 - [Elementor](https://elementor.com/) - populaarne visuaalne *drag and drop* lehekülje ehitamise plugin.
-- [Yoast](.https://yoast.com/wordpress/plugins/seo/) - plugin, mis aitab optimeerida veebisaiti otsingumootorite jaoks, pakkudes SEO nõuandeid ja funktsioone.
+- [Yoast](https://yoast.com/wordpress/plugins/seo/) - plugin, mis aitab optimeerida veebisaiti otsingumootorite jaoks, pakkudes SEO nõuandeid ja funktsioone.
 - [All in One WP security (AIOS)](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/) -  WordPressi plugin, mis pakub laia valikut turvafunktsioone, et kaitsta veebisaiti häkkimise ja muude ohtude eest.
 - [Polylang](https://polylang.pro/) - võimaldab luua ja hallata mitmekeelseid veebisaite, toetades erinevaid keeli ja tõlkeid.
 - [Woocommerce](https://woocommerce.com/) - paindlik ja laialt levinud e-kaubanduse lahendus WordPressi jaoks, mis võimaldab kasutajatel luua ja hallata veebipoode.
