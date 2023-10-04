@@ -14,11 +14,13 @@ Veebilehe loomise põhialused veebiplatvormi kasutamisel. Veebilehe struktuuri k
 
 ## Õpiväljundid
 
-Loob ette antud veebiplatvormi (Wordpress) abil veebilehe, lähtudes kehtivatest tehnilistest nõuetest ja parimatest veebidisaini praktikatest; tunneb valitud veebiplatvormi kasutuspõhimõtteid ja peamisi töövõtteid; kavandab ettevõtte vajadustest lähtuvalt veebilehe struktuuri.
+- Loob ette antud veebiplatvormi (Wordpress) abil veebilehe, lähtudes kehtivatest tehnilistest nõuetest ja parimatest veebidisaini praktikatest;
+- tunneb valitud veebiplatvormi kasutuspõhimõtteid ja peamisi töövõtteid;
+- kavandab ettevõtte vajadustest lähtuvalt veebilehe struktuuri.
 
 ## Eeldused
 
-Arvuti kasutamise põhioskused, aga ei ole varem kokku puutunud veebilehe loomisega
+Arvuti kasutamise põhioskused, aga ei ole varem kokku puutunud veebilehe loomisega.
 
 
 **Õppematerjalide loomisel on kasutatud Wordpressi ametlikku dokumentatsiooni, mis on saadaval aadressil https://wordpress.org/documentation/**
