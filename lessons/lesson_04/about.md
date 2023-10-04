@@ -1,6 +1,6 @@
 # Neljas kohtumine
 
-Viimasel korral vaatame erinevaid kasulikke pluginaid, mida võiks veebilehe tegemisel vaja minna. Lisaks vaatame, kui kaugele keegi oma lehekülje tegemisega on jõudnud ja teeme igaüks oma lehekülge nii plaju kui jõuame.
+Viimasel korral vaatame erinevaid kasulikke pluginaid, mida võiks veebilehe tegemisel vaja minna. Lisaks vaatame, kui kaugele keegi oma lehekülje tegemisega on jõudnud ja teeme igaüks oma lehekülge nii palju kui jõuame.
 
 ## Teemad
 - [SEO ehk veebilehe optimeerimine otsingumootori jaoks](../../concepts/SEO/about.md)
