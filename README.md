@@ -28,4 +28,4 @@ Arvuti kasutamise põhioskused, aga ei ole varem kokku puutunud veebilehe loomis
 - [Esimene kohtumine](lessons/lesson_01/about.md)
 - [Teine kohtumine](lessons/lesson_02/about.md)
 - [Kolmas kohtumine](lessons/lesson_03/about.md)
-
+- [Neljas kohtumine](lessons/lesson_04/about.md)
