@@ -16,6 +16,8 @@ Haapsalu kolledž
 # Esimene kohtumine
 
 - Kes me oleme ja milline on meie kokkupuude veebi ja veebilehtedega siiani?
+- Mis on selle koolituse eesmärk?
+- Koolitusel käsitletavad teemad
 - [Mis on internet?](../../concepts/Internet/about.md)
 - [Mis on veebileht?](../../concepts/Veebileht/about.md)
 - [Mis on Wordpress?](../../concepts/Wordpress/about.md)
@@ -28,6 +30,59 @@ Haapsalu kolledž
 - [Teema](../../concepts/teema/about.md)
 - [Mall](../../concepts/mall/about.md)
 - [Pluginad ehk pistikprogrammid](../../concepts/plugins/about.md)
+
+---
+# Mis on selle koolituse eesmärk?
+
+Omandada ettevõtte vajadustest lähtuva veebilehe loomiseks vajalikud oskused ja teadmised.
+
+Viimaseks korraks püüame valmis saada lihtsa veebilehe, mis vastab ettevõtte vajadustele ja on avalikult kättesaadav.
+
+Kokkusaamistel teeme praktilisi ülesandeid veebilehe loomise ettevalmistamiseks ja veebilehe loomiseks.
+
+---
+# Koolitusel käsitletavad teemad
+
+---
+# Esimene kohtumine
+
+- Mis on internet?
+- Mis on veebileht?
+- Mis on Wordpress?
+- Wordpressi kasutamise eelised ja miinused
+- Wordpress.com vs Wordpress.org
+- Wordpressi majutamine
+- Wordpressi halduspaneeli kasutajaliides
+- Postitus ja lehekülg
+- Plokid ja plokimustrid
+- Teema
+- Mall
+- Pluginad ehk pistikprogrammid
+
+---
+# Teine kohtumine
+
+- Lähteülesanne
+- Kasutajakogemus
+- Persoona
+- Stsenaarium
+
+---
+# Kolmas kohtumine
+
+- Kasutajalood
+- Kasutajakogemuse disaini reeglid
+- Veebididsaini põhialused
+- Abivahendid veebilehe loomisel
+- Prototüüpimine
+- Milliseid pistikprogramme on vaja
+- Testimine
+
+---
+# Neljas kohtumine
+
+- Erinevad vaja minevad pistikprogrammid
+- Kodulehe viimistlemine
 
 ---
 # Mis on internet?

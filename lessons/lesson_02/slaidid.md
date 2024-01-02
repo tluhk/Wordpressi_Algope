@@ -18,9 +18,6 @@ Haapsalu kolledž
 - [Kasutajakogemus](../../concepts/kasutajakogemuseDisain/about.md)
 - [Persoona](../../concepts/persoona/about.md)
 - [Stsenaarium](../../concepts/stsenaarium/about.md)
-- [Kasutajalood](../../concepts/kasutajalood/about.md)
-- [Kasutajakogemuse disaini reeglid](../../concepts/kasutajakogemuseDisain/about.md)
-- [Prototüüpimine](../../concepts/prototyypimine/about.md)
 
 ---
 # Eelmine kord
